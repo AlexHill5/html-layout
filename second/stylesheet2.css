@@ -1,25 +1,34 @@
-#wrapper {
-  width:700px;
-  clear:both;
+
+body {
+    background: #50E3C2;
+    margin: 0;
+}
+.section1 {
+     background: #4A90E2;
+     width: 33%;
+     height: 100vh;
 }
 
-.section1 {
-    background: greenyellow;
-    height: 80vh;
-    width: 500px;
-    float:left;
 
-    
+.section3 {
+    background: #D8E976;
+     width: 33%;
+     position: absolute;
+     right: 0;
+     height: 100vh;
 }
 .section2 {
-    background:teal;
-    height: 100vh;
-    width: 500px;
-    float: left;
-    }
-.section3 {
-    background: blue;
-    height: 100vh;
-    width: 500px;
-    float: left;
+    background: red;
+    width: 33%;
+    height: 30vh;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+p {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 20%;
+    font-size: 25px;
 }
