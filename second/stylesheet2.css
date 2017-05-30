@@ -1,0 +1,25 @@
+#wrapper {
+  width:700px;
+  clear:both;
+}
+
+.section1 {
+    background: greenyellow;
+    height: 80vh;
+    width: 500px;
+    float:left;
+
+    
+}
+.section2 {
+    background:teal;
+    height: 100vh;
+    width: 500px;
+    float: left;
+    }
+.section3 {
+    background: blue;
+    height: 100vh;
+    width: 500px;
+    float: left;
+}
