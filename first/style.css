@@ -1,0 +1,32 @@
+.div_top {
+    background: gray;
+    height: 100px;
+
+
+
+}
+.div_bottom {
+    background: lightgray;
+    height: 100vh;
+    float: right;
+    width: 300px;
+    
+}
+.div_right {
+    background: lightgray;
+    height: 100vh;
+    margin-right: 300px;
+    width: 300px;
+    
+    
+
+}
+.div_left {
+    background: black;
+    height: 100px;
+    position: fixed;
+    bottom: 0;
+    left: 308px;
+    width: 119.2vh;
+
+}
