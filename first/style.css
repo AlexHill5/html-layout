@@ -1,32 +1,29 @@
-.div_top {
-    background: gray;
-    height: 100px;
-
-
-
-}
-.div_bottom {
+body {
     background: lightgray;
-    height: 100vh;
-    float: right;
-    width: 300px;
-    
 }
-.div_right {
-    background: lightgray;
-    height: 100vh;
-    margin-right: 300px;
-    width: 300px;
-    
-    
 
-}
-.div_left {
-    background: black;
+.top {
     height: 100px;
+    width: 101%;
+    background: #3f4448;
+    position: fixed;
+    top: 0;
+}
+
+.middle {
+    height: 80vh;
+    width: 76%;
+    background: white;
+    margin-left: 130px;
+    margin-top: 100px;
+}
+
+.bottom {
+    height: 80px;
+    width:1156px;
+    background: #24292E;
     position: fixed;
     bottom: 0;
-    left: 308px;
-    width: 119.2vh;
-
+    margin-top: 100px;
+    margin-left: 128px;
 }
