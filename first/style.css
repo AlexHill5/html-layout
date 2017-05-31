@@ -1,29 +1,33 @@
-body {
+    html, body {
+        height: 100%;
+        margin: 0px;
+    }
+
+.container {
+    height: 100%;
+    width: 100%;
     background: lightgray;
+
 }
 
 .top {
-    height: 100px;
-    width: 101%;
-    background: #3f4448;
-    position: fixed;
-    top: 0;
+    height: 16%;
+    background: gray;
 }
-
 .middle {
-    height: 80vh;
-    width: 76%;
+    height: 76%;
+    width: 68%;
+    margin: auto;
     background: white;
-    margin-left: 130px;
-    margin-top: 100px;
 }
 
-.bottom {
-    height: 80px;
-    width:1156px;
-    background: #24292E;
-    position: fixed;
-    bottom: 0;
-    margin-top: 100px;
-    margin-left: 128px;
+.bottom{
+    background: black;
+    height: 9%;
+    width: 68%;
+    margin: auto;
 }
+
+
+
+
