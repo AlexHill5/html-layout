@@ -1,0 +1,45 @@
+.container{
+    width: 100%;
+    height: 100%;
+}
+.top-box {
+    width: 100%;
+    height: 150px;
+    background: gray;
+    display: flex;
+}
+.small-box {
+    width: 80px;
+    height: 80px;
+    background: blue;
+    margin: 35px;
+}
+.second {
+    background: white;
+    height: 300px;
+    
+}
+p {
+    margin: auto;
+    padding: 85px;
+    font-size: 25px;
+}
+
+.third {
+    background:lightblue;
+    height: 120px;
+}
+.fourth {
+    background: teal;
+    height: 120px;
+}
+   
+.fifth{
+    background: olive;
+    height: 120px;
+}
+.six {
+    background: yellow;
+    height: 120px;
+}
+
